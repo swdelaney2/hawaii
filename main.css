@@ -1,0 +1,40 @@
+body {
+  background: rgba(245, 245, 220, .7);
+  width: 100%;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica;
+  font-weight: 500;
+}
+
+.parallax-window {
+  min-height: 400px;
+  background: transparent;
+}
+
+.content {
+  min-height: 400px;
+  text-align: center;
+}
+
+.content img {
+  height: 300px;
+}
+
+table {
+  /*border: 1px black solid;*/
+  border-spacing: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+h1 {
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.headline {
+  text-align: center;
+}
